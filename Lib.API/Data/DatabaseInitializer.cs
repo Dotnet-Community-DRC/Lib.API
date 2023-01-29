@@ -21,8 +21,7 @@ public class DatabaseInitializer
                 Author TEXT NOT NULL,
                 ShortDescription TEXT NOT NULL,
                 PageCount INTEGER,
-                RealeseDate TEXT NOT NULL
-)"
+                ReleaseDate TEXT NOT NULL)"
             );
     }
 }
