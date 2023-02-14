@@ -4,6 +4,8 @@
         <TargetFramework>net6.0</TargetFramework>
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
+        <EnablePreviewFeatures>True</EnablePreviewFeatures>
+        <NoWarn>CA2242</NoWarn>
     </PropertyGroup>
 
     <ItemGroup>
